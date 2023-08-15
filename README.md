@@ -1,6 +1,6 @@
 # Sentimental Analysis Machine Learning Project
 
-Sentiment analysis is the process of using natural language processing and machine learning techniques to determine the sentiment or emotional tone expressed in a piece of text. This analysis typically categorizes the sentiment as positive, negative, or neutral. It's widely used to understand the opinions, emotions, and attitudes of individuals towards a particular topic, product, service, or any text in general.
+Sentiment analysis is the process of using natural language processing and machine learning techniques to determine the sentiment or emotional tone expressed in a piece of text. This analysis typically categorizes the sentiment as positive, negative, or neutral. It's widely used to understand the opinions, emotions, and attitudes of individuals towards a particular topic, product, service, or text in general.
 
 Sentiment analysis involves the following steps:
 
